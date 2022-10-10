@@ -134,3 +134,9 @@ I don't have experience :(
 - WSB Universities first year of study like back dev.
 
 ---
+
+## English
+
+```
+My level is about B1. I studied speak when i have 9 years but i had a pause at studing.
+```
