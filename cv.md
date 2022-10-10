@@ -20,3 +20,11 @@ telegram : @oleg_bylyn
 ```
 
 ---
+
+## Summary
+
+```
+I start  my way to become IT specialist and want to learn many things.
+```
+
+---
