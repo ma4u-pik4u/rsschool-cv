@@ -128,3 +128,9 @@ I don't have experience :(
 ```
 
 ---
+
+## Education
+
+- WSB Universities first year of study like back dev.
+
+---
