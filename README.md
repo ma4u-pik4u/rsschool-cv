@@ -1,1 +1,1 @@
-https://ma4u-pik4u.github.io/rsschool-cv/cv
+https://ma4u-pik4u.github.io/rsschool-cv/
